@@ -1,6 +1,7 @@
 # MS-Thesis-Paper
 Full Kinematic Analysis and Design of 4-DoF Series-Parallel Thumb
 This repository contains the Latex source files and compiled PDF for my Master of Science thesis, submitted to the Department of Mechanical Engineering at Stony Brook University in May 2025.
+The template used was the Stony Brook MS Thesis template.
 
 If you use or reference this work, please cite it as:
 
